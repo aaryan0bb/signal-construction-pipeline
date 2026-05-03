@@ -1,9 +1,5 @@
 # Signal Construction Pipeline
 
-An end-to-end AI system that converts a natural-language investment theme into a scored, tradable equity factor — backed by systematic literature research, live market data, and automated analytics.
-
-Built by [Aaryan Goyal](https://github.com/aaryangoyal) and a co-founder as part of a broader quant research platform.
-
 ---
 
 ## What It Does
